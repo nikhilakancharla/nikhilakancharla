@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @nikhilakancharla
 - 👀 I’m interested in DevOps
 - 🌱 I’m currently learning Git
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 💞️ I’m looking to collaborate on basic learning and practice
+- 📫 How to reach me xxxx
 
 <!---
 nikhilakancharla/nikhilakancharla is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
